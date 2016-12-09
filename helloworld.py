@@ -1,1 +1,1 @@
-print "helloworld version 2"
+print "hello mars"
