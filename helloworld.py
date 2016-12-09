@@ -1,2 +1,1 @@
-print "helloworld version 2"
-print "Hello Joe. Cool stuff!"
+print "helloworld blah blah !"
